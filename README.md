@@ -14,9 +14,9 @@ The machine learning techniques used were the following:
 
 The visualisation techniques used were the following:
 
-  - Correlation Matrix: Used to discover how 3-point percentage impact on winning differs between eras. 
+  - Correlation Matrix: Used to discover how 3-point percentage impacts the winning of a game in different eras. 
   
-  - Scatter Matrix with Line of Best Fit: Used to analyse individual team's 3-point percentage and the impact it has on winning. Line of best fit helped display clear correlations.
+  - Scatter Matrix with Line of Best Fit: Used to analyse individual team's 3-point percentage and the impact it has on winning. Line of best fit used to display clear correlations.
   
-  - Stacked Histogram: Used interactively with scatter graph for a clear view of specific teams.
+  - Stacked Histogram: Used interactively with scatter graph for better viewing functionality when selecting specific teams.
   
